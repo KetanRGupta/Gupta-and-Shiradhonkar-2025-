@@ -1,0 +1,8 @@
+Median for IO = 0.190 g ; Std. Dev. for IO = 0.740; 
+Median for CP = 0.310 g ; Std. Dev. for CP = 0.740; 
+
+P[IO|MCE] = 87.80 %
+P[CP|MCE] = 69.27 %
+
+Mean Annual Rate of Exceeding IO   =  0.081 %
+Mean Annual Rate of Exceeding CP   =  0.072 %
